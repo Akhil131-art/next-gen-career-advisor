@@ -1,0 +1,7 @@
+{
+  "name": "Next-Gen Career Advisor",
+  "description": "An advanced AI-powered career guidance platform using MBTI and OCEAN psychometric analysis to provide personalized IT career roadmaps.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
